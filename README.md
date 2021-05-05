@@ -1,4 +1,4 @@
-# RenoExpress
+# Reno Express
 
 ## Puntos realizados
 ##### Inventario
@@ -38,3 +38,8 @@
 
 ## Motivo de puntos No realizados
 Lastimosamente no me fue posible terminar estos puntos por falta de tiempo, no es que se me haya hecho difícil la realización de estos en cuanto a desarrollo, sino al tiempo que ocuparía al realizarlo. Ya tenía preparado el plugin a utilizar para las gráficas, pero no me fue posible implementarlo.
+
+## APK generado
+##### Opciones para descargar APK de la aplicación
+1. Puede descargar desde este repositorio [Aquí.](android/app/release)
+2. También puede descargarlo desde OneDrive con carpeta compartida [Aquí.](https://hdsv01-my.sharepoint.com/:u:/g/personal/ferris_lopez_itprofis-gt_com/Eah4i8X732RBnZk7u-ZlW9oBpVWKTWex99EEhOIHq0M3Yg?e=SZlzSs)
