@@ -40,5 +40,5 @@
 Lastimosamente no me fue posible terminar estos puntos por falta de tiempo, no es que se me haya hecho difícil la realización de estos en cuanto a desarrollo, sino al tiempo que ocuparía al realizarlo. Ya tenía preparado el plugin a utilizar para las gráficas, pero no me fue posible implementarlo.
 
 ## APK generado
-##### Opciones para descargar APK de la aplicación
-1. Puede descargar desde este repositorio [aquí.](android/app/release)
+##### Obtener APK generado
+1. Puede encontrarlo [aquí.](android/app/release)
