@@ -41,4 +41,4 @@ Lastimosamente no me fue posible terminar estos puntos por falta de tiempo, no e
 
 ## APK generado
 ##### Opciones para descargar APK de la aplicación
-1. Puede descargar desde este repositorio [Aquí.](android/app/release)
+1. Puede descargar desde este repositorio [aquí.](android/app/release)
