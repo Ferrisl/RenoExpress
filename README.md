@@ -41,4 +41,4 @@ Lastimosamente no me fue posible terminar estos puntos por falta de tiempo, no e
 
 ## APK generado
 1. Puede encontrarlo [aquí.](android/app/release)
-2. Sergunda opción [aquí.](https://hdsv01-my.sharepoint.com/:u:/g/personal/ferris_lopez_itprofis-gt_com/Eah4i8X732RBnZk7u-ZlW9oBpVWKTWex99EEhOIHq0M3Yg?e=SZlzSs)
+2. Sergunda opción OneDrive [aquí.](https://hdsv01-my.sharepoint.com/:u:/g/personal/ferris_lopez_itprofis-gt_com/Eah4i8X732RBnZk7u-ZlW9oBpVWKTWex99EEhOIHq0M3Yg?e=SZlzSs)
