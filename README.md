@@ -4,7 +4,7 @@
 ##### Inventario
 1. [x] Consulta de productos
 2. [x] **Información a mostrarse**
-    - [x] Id de producto.
+    - [x] Código de producto.
     - [x] Nombre de producto.
     - [x] Marca de producto.
     - [x] Categoría de producto.
@@ -34,7 +34,7 @@
 ##### Inventario
 1. Búsqueda de producto por medio de nombre, código o categoría.
 2. Ordenar por medio de nombre, código o categoría.
-3. Indicadores o gráficos.
+3. Indicadores o gráficos (opcional).
 
 ## Motivo de puntos No realizados
 Lastimosamente no me fue posible terminar estos puntos por falta de tiempo, no es que se me haya hecho difícil la realización de estos en cuanto a desarrollo, sino al tiempo que ocuparía al realizarlo. Ya tenía preparado el plugin a utilizar para las gráficas, pero no me fue posible implementarlo.
