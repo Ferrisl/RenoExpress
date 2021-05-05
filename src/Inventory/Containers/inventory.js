@@ -56,20 +56,13 @@ export default function Inventory(props){
                                 let image_path = '../../../public/assets/Images/Products/toy-7.png'
                                 return(
                                     <View style={{width: '100%', backgroundColor: 'white', marginVertical: 5, elevation: 5}}>
-                                        {/* <ListItem>
-                                            <View style={{width:'20%', height: '100%'}}>
-                                                <Avatar style={{backgroundColor:'#f4f4f4', flex: 1, borderRadius: 10, padding: 5}} title={item.name} source={require(image_path)}  />
-                                            </View>
-                                            <ListItem.Content>
-                                                <ListItem.Title>{item.name}</ListItem.Title>
-                                                <ListItem.Subtitle>{item.description}</ListItem.Subtitle>
-                                            </ListItem.Content>
-                                            <ListItem.Chevron color="grey" />
-                                        </ListItem> */}
                                         <Product product={item} index={index} />
                                     </View>
                                 )
                             }}
+                            ListFooterComponent={
+                                <View style={{height: 20}} />
+                            }
                         />
                     </View>
                     :
